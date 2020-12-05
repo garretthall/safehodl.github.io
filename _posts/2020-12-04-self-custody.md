@@ -2,8 +2,8 @@
 title: "Best Practices for Self-Custody"
 date: 2020-12-04T15:34:30-04:00
 classes: wide
-image: "/assets/images/custody.jpg"
 ---
+![custoday](/assets/images/custody.jpg)
 
 Bitcoin is the first digital asset that can be self-custodied.  The reason we self-custody is to avoid risks of storing assets with a custodian like an exchange or bank.  When using a custodian you have to ask:
 

@@ -13,7 +13,7 @@ These are the only two wallets to feature [air-gaps][air] so they don’t need t
 
 Continue reading for a detailed review of well-known Bitcoin wallets.  First let’s start with the features each wallets has to offer:
 
-|                                     | [Cobo Vault](#cobo) | [Coldcard](#cc) | [BitBox](#bb) | [Trezor](#trezor) | [Ledger](#ledger) | [Specter](#specter) | [Passport](#passort)
+|                                     | [Cobo Vault](#cobo) | [Coldcard](#cc) | [BitBox](#bb) | [Trezor](#trezor) | [Ledger](#ledger) | [Specter](#specter) | [Passport](#passport)
 | ----------------------------------- |                     |                 |               |                   |                   |                     |
 | **Overall Rating**                  | 5/5                 | 5/5             | 3/5           | 3/5               | 2/5               | Unreleased          | Unreleased
 | Verifiable Seed Generation          | X                   | X               |               |                   |                   | X                   | X
