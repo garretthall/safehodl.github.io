@@ -1,9 +1,8 @@
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+
+docs:
+  - title: Saving in Bitcoin Guides
+    children:
+      - title: "The Safest Asset in the World"
+        url: /safest-asset/
+      - title: "Best Practices for Self-Custody"
+        url: /self-custody/
