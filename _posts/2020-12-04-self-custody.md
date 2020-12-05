@@ -13,7 +13,7 @@ Bitcoin is the first digital asset that can be self-custodied.  The reason we se
 
 If you are willing to put in some effort, self-custody can make your Bitcoin the safest asset in the world, so long as you follow these practices:
 
-#### 1. Buy a reputable hardware wallet and learn how to use it.
+#### 1. Buy a [reputable hardware wallet](/hardware-wallets/) and learn how to use it.
 Hardware wallets are more secure than your phone or computer which can be easily infected with malware.  A wallet generator you get off the internet might be generating seeds that an attacker already knows.
 
 #### 2. Verify your hardware wallet is authentic.
@@ -42,6 +42,9 @@ There is no way to undo a transaction and any deal that seems too good to be tru
 
 #### 9. Use a source you trust to double-check you’ve received Bitcoin.
 Don’t trust a website to tell you that you’ve received Bitcoin, double-check using a [block explorer][explorer] or your [own node][node].  Use the [Tor browser][tor] to visit block explorers if you don’t want your IP address associated with your Bitcoin address.
+
+#### 10. Determine the level of privacy you need.
+People who know how much Bitcoin you have may target you for extortion or theft.  Try to keep your Bitcoin as private as you can.
 
 .   .   .
 {: style="color:gray; font-size: 150%; text-align: center;"}

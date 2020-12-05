@@ -15,7 +15,7 @@ Continue reading for a detailed review of well-known Bitcoin wallets.  First let
 
 |                                     | [Cobo Vault](#cobo) | [Coldcard](#cc) | [BitBox](#bb) | [Trezor](#trezor) | [Ledger](#ledger) | [Specter](#specter) | [Passport](#passport)
 | ----------------------------------- |                     |                 |               |                   |                   |                     |
-| **Overall Rating**                  | 5/5                 | 5/5             | 3/5           | 3/5               | 2/5               | Unreleased          | Unreleased
+| **Overall Rating**                  | 5/5                 | 5/5             | 4/5           | 3/5               | 3/5               | Unreleased          | Unreleased
 | Verifiable Seed Generation          | X                   | X               |               |                   |                   | X                   | X
 | Air-gap (USB not required)          | X                   | X               |               |                   |                   | X                   | X
 | Device validation (evil MAID-proof) |                     | X               |               |                   |                   |                     |

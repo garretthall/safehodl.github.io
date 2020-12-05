@@ -42,18 +42,14 @@ Hackers steal your identity, burglars rob your house, and [police may abuse forf
 ![fake](/assets/images/fake.jpg)
 {: .image-inline}
 
-[Fraudulent gold][tungsten], art, and gemstones require experts with expensive equipment to verify the authenticity of.  Putting a large amount of your savings in fraudulent assets can be disastrous, particularly in countries with weak judicial systems.  Bitcoin can be verified as real simply by running software on your computer.
+[Fraudulent gold][tungsten], art, and gemstones require experts with expensive equipment to verify their authenticity.  Putting a large amount of your savings in fraudulent assets can be disastrous, particularly in countries with weak judicial systems.  Bitcoin can be verified as real simply by running software on your computer.
 
 ![superman](/assets/images/superman.jfif)
 {: style="color:gray; font-size: 150%; text-align: center;"}
 
 Bitcoin is the safest asset in the world, but only if you know how to secure it.  And just like safely riding a bike requires practice and equipment, so does securing Bitcoin.
 
-I’ve made concise and practical guides to help you secure your Bitcoin.  Even if you are a Bitcoin expert, these guides may help you improve your security practices:
-
-1. [Best Practices for Self-Custody:  How and why to take ownership of your Bitcoin?](/self-custody/)
-1. Bitcoin Wallets Security Review:  What wallet should you use and why?
-1. Best Practices for Multisig:  When and how do you upgrade your security to multisig?
+I’ve made concise and practical guides on this site to help you secure your Bitcoin.  Even if you are a Bitcoin expert, these guides may help you improve your security practices.
 
 [bail]: https://www.investopedia.com/articles/markets-economy/090716/why-bank-bailins-will-be-new-bailouts.asp
 [reserves]: https://niccarter.info/proof-of-reserves
