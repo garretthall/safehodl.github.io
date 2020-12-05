@@ -10,30 +10,41 @@ No other savings vehicle can protect you from:
 
 ### Insolvent custodians such as banks losing all your savings
 ![northern-rock](/assets/images/northern-rock.jpg)
+{: .image-inline}
 
 Many custodians such as banks or exchanges lend out your dollars, gold, or Bitcoin.  If they become insolvent, as many do, your deposits may be lost [bailing-in the bank][bail].  Insurance policies may not pay out in a large crisis, at least not the full amount of value you have stored.  Bitcoin is the first digital asset you can self-custody to avoid the risks of a custodian.  Even with a custodian, you can prove Bitcoin is [allocated to only you][reserves] or put constraints on the custodian so they [can’t take your Bitcoin][collaborative].
 
 ### Currencies and assets inflate making your savings worth less
+![hyperinflation](/assets/images/hyperinflation.jpg)
+{: .image-inline}
 
 Hyperinflations such as the [one in Venezuela][venezuela] can wipe out a lifetime of savings in months.  Even the strongest currencies like the Swiss Franc lose significant value over the years.  Scarce commodities like gold still suffer from inflation and can rapidly devalue if [large deposits are found][gold].  Bitcoin is the first fungible asset in the world that has an absolutely fixed supply at 21 million.
 
 ### You lose all your valuables fleeing a country
+![refugee](/assets/images/refugee.jpg)
+{: .image-inline}
 
 Refugees often have to leave all savings behind or have it confiscated at the border.  Bitcoin is the first asset you can send to your family across the border using the internet.  You can also cross the border with Bitcoin hidden in your mind.  Authoritarian regimes such as the Nazis would not have [confiscated the savings of persecuted minorities][nazi] had Bitcoin existed.
 
 ### Disasters such as war, hurricanes, and fires destroy homes and valuables
+![hurricane](/assets/images/hurricane.jpg)
+{: .image-inline}
 
 Many in the world do not have access to insurance, but even if they do, a large-scale disaster may not be covered or bankrupt the insurance company.  Because your Bitcoin ownership can be distributed across many locations, your wealth can be protected when you lose everything else, even your home.
 
 ### Thieves steal your savings
+![police](/assets/images/police.jpg)
+{: .image-inline}
 
 Hackers steal your identity, burglars rob your house, and [police may abuse forfeiture laws][forfeit].  But your Bitcoin can be secured so that no one can take it without your permission.  Bitcoin can protect your rights when others around you are unjust.
 
 ### You might buy fake gold, art, gemstones or other collectibles
+![fake](/assets/images/fake.jpg)
+{: .image-inline}
 
 [Fraudulent gold][tungsten], art, and gemstones require experts with expensive equipment to verify the authenticity of.  Putting a large amount of your savings in fraudulent assets can be disastrous, particularly in countries with weak judicial systems.  Bitcoin can be verified as real simply by running software on your computer.
 
-.    .    .
+![superman](/assets/images/superman.jfif)
 {: style="color:gray; font-size: 150%; text-align: center;"}
 
 Bitcoin is the safest asset in the world, but only if you know how to secure it.  And just like safely riding a bike requires practice and equipment, so does securing Bitcoin.

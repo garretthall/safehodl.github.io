@@ -13,17 +13,38 @@ Bitcoin is the first digital asset that can be self-custodied.  The reason we se
 
 If you are willing to put in some effort, self-custody can make your Bitcoin the safest asset in the world, so long as you follow these practices:
 
-1. **Buy a reputable hardware wallet and learn how to use it.**  Hardware wallets are more secure than your phone or computer which can be easily infected with malware.  A wallet generator you get off the internet might be generating seeds that an attacker already knows.
-1. **Verify your hardware wallet is authentic.**  Buy directly from the manufacturer and check for any signs of tampering.  Try to get a wallet that allows you to generate your own seed by [rolling dice][dice] so you don’t have to trust the device’s seed generator.
-1. **Backup all information to recover your wallet in a separate secure location.**  If your hardware wallet dies, you forget your passphrase, or you have a fire in your house make sure you won’t lose access to your Bitcoin.  Store your backup in a location safe from theft or natural disaster.  Many people use [steel backups][steel].
-1.  **Provide recovery instructions to your inheritors.**  Provide recovery instructions in a safe, will, or [online dead-man’s switch][switch] that your inheritors will receive if you suddenly die.  For example, provide the location of your seed backup or the code to a safe containing your passphrase.
-1.  **Practice sending, receiving, and backup recovery with your wallet.**  Once you have backed up your seed, wipe it from your wallet and see if you can restore it.  Practice receiving and sending a small amount of Bitcoin before moving large amounts into your wallet.
+#### 1. Buy a reputable hardware wallet and learn how to use it.
+Hardware wallets are more secure than your phone or computer which can be easily infected with malware.  A wallet generator you get off the internet might be generating seeds that an attacker already knows.
 
-    After you setup your wallet, there are a few rules to remember when using it:
-1.  **Always check the address on your hardware wallet when sending or receiving.**  Some hackers [replace addresses][addresses] you see on a website with their own.  You must always double-check addresses on your hardware wallet before moving your Bitcoin.
-1.  **Never enter your seed on a computer or phone.**  Only ever enter your seed into a hardware wallet.  An app or website that asks for your seed might be transmitting your seed to someone who will [steal all your Bitcoin][phish].
-1.  **Only send Bitcoin to people you trust.**  There is no way to undo a transaction and any deal that seems too good to be true is probably a [scam or impersonator][scam].  Treat sending Bitcoin like handing someone cash.
-1.  **Use a source you trust to double-check you’ve received Bitcoin.**  Don’t trust a website to tell you that you’ve received Bitcoin, double-check using a [block explorer][explorer] or your [own node][node].  Use the [Tor browser][tor] to visit block explorers if you don’t want your IP address associated with your Bitcoin address.
+#### 2. Verify your hardware wallet is authentic.
+Buy directly from the manufacturer and check for any signs of tampering.  Try to get a wallet that allows you to generate your own seed by [rolling dice][dice] so you don’t have to trust the device’s seed generator.
+
+#### 3. Backup all information to recover your wallet in a separate secure location.
+If your hardware wallet dies, you forget your passphrase, or you have a fire in your house make sure you won’t lose access to your Bitcoin.  Store your backup in a location safe from theft or natural disaster.  Many people use [steel backups][steel].
+
+#### 4. Provide recovery instructions to your inheritors.
+Provide recovery instructions in a safe, will, or [online dead-man’s switch][switch] that your inheritors will receive if you suddenly die.  For example, provide the location of your seed backup or the code to a safe containing your passphrase.
+
+#### 5. Practice sending, receiving, and backup recovery with your wallet.
+Once you have backed up your seed, wipe it from your wallet and see if you can restore it.  Practice receiving and sending a small amount of Bitcoin before moving large amounts into your wallet.
+
+After you setup your wallet, there are a few rules to remember when using it:
+{: style="color:gray; text-align: center;"}
+
+#### 6. Always check the address on your hardware wallet when sending or receiving.
+Some hackers [replace addresses][addresses] you see on a website with their own.  You must always double-check addresses on your hardware wallet before moving your Bitcoin.
+
+#### 7. Never enter your seed on a computer or phone.
+Only ever enter your seed into a hardware wallet.  An app or website that asks for your seed might be transmitting your seed to someone who will [steal all your Bitcoin][phish].
+
+#### 8. Only send Bitcoin to people you trust.
+There is no way to undo a transaction and any deal that seems too good to be true is probably a [scam or impersonator][scam].  Treat sending Bitcoin like handing someone cash.
+
+#### 9. Use a source you trust to double-check you’ve received Bitcoin.
+Don’t trust a website to tell you that you’ve received Bitcoin, double-check using a [block explorer][explorer] or your [own node][node].  Use the [Tor browser][tor] to visit block explorers if you don’t want your IP address associated with your Bitcoin address.
+
+.   .   .
+{: style="color:gray; font-size: 150%; text-align: center;"}
 
 I consider these practices to be necessary and usually sufficient for safe self-custody.
 

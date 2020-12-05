@@ -1,8 +1,10 @@
 
 docs:
-  - title: Saving in Bitcoin Guides
+  - title: Saving with Bitcoin
     children:
       - title: "The Safest Asset in the World"
         url: /safest-asset/
       - title: "Best Practices for Self-Custody"
         url: /self-custody/
+      - title: "Hardware Wallets Review"
+        url: /hardware-wallets/
